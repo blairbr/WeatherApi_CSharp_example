@@ -12,7 +12,7 @@ namespace WeatherAPI_CSharp_Console_App
         static void Main(string[] args)
         {
             HttpClient client = new HttpClient();
-            client.BaseAddress = new Uri("http://api.openweathermap.org/data/2.5/forecast?zip=48104&appid=3182650f72b53ec159a2efe5b65b5413&units=imperial");
+            client.BaseAddress = new Uri("");
 
             // Add an Accept header for JSON format.
             client.DefaultRequestHeaders.Accept.Add(

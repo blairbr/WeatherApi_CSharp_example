@@ -1,0 +1,17 @@
+C:\Users\blair.brown\source\repos\WeatherAPI_CSharp_Console_App\WeatherAPI_CSharp_Console_App\bin\Debug\netcoreapp3.1\WeatherAPI_CSharp_Console_App.exe
+C:\Users\blair.brown\source\repos\WeatherAPI_CSharp_Console_App\WeatherAPI_CSharp_Console_App\obj\Debug\netcoreapp3.1\WeatherAPI_CSharp_Console_App.csprojAssemblyReference.cache
+C:\Users\blair.brown\source\repos\WeatherAPI_CSharp_Console_App\WeatherAPI_CSharp_Console_App\obj\Debug\netcoreapp3.1\WeatherAPI_CSharp_Console_App.AssemblyInfoInputs.cache
+C:\Users\blair.brown\source\repos\WeatherAPI_CSharp_Console_App\WeatherAPI_CSharp_Console_App\obj\Debug\netcoreapp3.1\WeatherAPI_CSharp_Console_App.AssemblyInfo.cs
+C:\Users\blair.brown\source\repos\WeatherAPI_CSharp_Console_App\WeatherAPI_CSharp_Console_App\bin\Debug\netcoreapp3.1\WeatherAPI_CSharp_Console_App.deps.json
+C:\Users\blair.brown\source\repos\WeatherAPI_CSharp_Console_App\WeatherAPI_CSharp_Console_App\bin\Debug\netcoreapp3.1\WeatherAPI_CSharp_Console_App.runtimeconfig.json
+C:\Users\blair.brown\source\repos\WeatherAPI_CSharp_Console_App\WeatherAPI_CSharp_Console_App\bin\Debug\netcoreapp3.1\WeatherAPI_CSharp_Console_App.runtimeconfig.dev.json
+C:\Users\blair.brown\source\repos\WeatherAPI_CSharp_Console_App\WeatherAPI_CSharp_Console_App\bin\Debug\netcoreapp3.1\WeatherAPI_CSharp_Console_App.dll
+C:\Users\blair.brown\source\repos\WeatherAPI_CSharp_Console_App\WeatherAPI_CSharp_Console_App\bin\Debug\netcoreapp3.1\WeatherAPI_CSharp_Console_App.pdb
+C:\Users\blair.brown\source\repos\WeatherAPI_CSharp_Console_App\WeatherAPI_CSharp_Console_App\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\blair.brown\source\repos\WeatherAPI_CSharp_Console_App\WeatherAPI_CSharp_Console_App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\blair.brown\source\repos\WeatherAPI_CSharp_Console_App\WeatherAPI_CSharp_Console_App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\blair.brown\source\repos\WeatherAPI_CSharp_Console_App\WeatherAPI_CSharp_Console_App\obj\Debug\netcoreapp3.1\WeatherAPI_CSharp_Console_App.csproj.CopyComplete
+C:\Users\blair.brown\source\repos\WeatherAPI_CSharp_Console_App\WeatherAPI_CSharp_Console_App\obj\Debug\netcoreapp3.1\WeatherAPI_CSharp_Console_App.dll
+C:\Users\blair.brown\source\repos\WeatherAPI_CSharp_Console_App\WeatherAPI_CSharp_Console_App\obj\Debug\netcoreapp3.1\WeatherAPI_CSharp_Console_App.pdb
+C:\Users\blair.brown\source\repos\WeatherAPI_CSharp_Console_App\WeatherAPI_CSharp_Console_App\obj\Debug\netcoreapp3.1\WeatherAPI_CSharp_Console_App.genruntimeconfig.cache
+C:\Users\blair.brown\source\repos\WeatherAPI_CSharp_Console_App\WeatherAPI_CSharp_Console_App\bin\Debug\netcoreapp3.1\Json.Net.dll
